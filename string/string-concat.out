@@ -1,0 +1,4 @@
+the length of s1 Hello, is 6
+the length of s2 world, is 6
+the length of s3 Hello, world, is 13
+the length of s3 Hello, world, again. is 20 after += 

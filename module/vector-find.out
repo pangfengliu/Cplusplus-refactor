@@ -1,0 +1,6 @@
+array
+23 48 31 70 
+0 not found
+48 found at array[1]
+100 not found
+23 found at array[0]

@@ -1,0 +1,12 @@
+6
+100 John Smith 200
+200 Adam Joshson 300
+300 Jane Washington 300
+400 Mary Miller 300
+500 Eric Page 500
+600 James Clark 500
+4
+John Smith Jane Washington
+Jane Washington Adam Joshson
+Adam Joshson Mary Miller
+Mary Miller James Clark

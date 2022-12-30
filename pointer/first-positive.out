@@ -1,0 +1,4 @@
+*iptr = 5
+iptr - array = 3
+*iptr = 6
+iptr - array = 7

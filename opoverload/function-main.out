@@ -1,0 +1,43 @@
+f(x) = exp((sin((x*x)+3))/(x-0.5))
+f(2.0) = 1.54959
+f'(x) = (exp((sin((x*x)+3))/(x-0.5)))*(((((cos((x*x)+3))*((x*1)+(x*1)))*(x-0.5))-(1*(sin((x*x)+3))))/((x-0.5)*(x-0.5)))
+f'(2.0) = 2.66284
+
+* deleted.
++ deleted.
+sin deleted
+- deleted.
+/ deleted.
+exp deleted
+delete f completes.
+
+* deleted.
++ deleted.
+sin deleted
+- deleted.
+/ deleted.
+exp deleted
+* deleted.
++ deleted.
+cos deleted
+* deleted.
+* deleted.
++ deleted.
+* deleted.
+- deleted.
+* deleted.
+* deleted.
++ deleted.
+sin deleted
+* deleted.
+- deleted.
+- deleted.
+- deleted.
+* deleted.
+/ deleted.
+* deleted.
+delete df completes.
+
+Constant 0.5 deleted.
+Constant 3 deleted.
+Variable deleted.

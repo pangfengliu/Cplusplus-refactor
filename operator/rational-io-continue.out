@@ -1,0 +1,14 @@
+2/3
+
+more exceptions caught, e.what() = stoi
+3/4
+
+more exceptions caught, e.what() = No slash found
+2/3
+
+4/5
+
+more exceptions caught, e.what() = stoi
+1/2
+
+more exceptions caught, e.what() = No slash found

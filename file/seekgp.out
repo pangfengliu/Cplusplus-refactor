@@ -1,0 +1,88 @@
+size = 64
+
+The data in a
+John_Smith
+id = 12345
+phone = 1234567
+grade = 3.00 3.00 3.00 3.00
+2000/1/1
+
+Mary_Smith
+id = 67890
+phone = 7654321
+grade = 4.00 4.00 4.00 4.00
+2000/1/1
+
+Baby_Smith
+id = 34567
+phone = 1111111
+grade = 3.00 4.00 3.00 4.00
+2030/1/1
+
+seekg(size * 2)
+before read tellg = 128
+after read tellg = 192
+Baby_Smith
+id = 34567
+phone = 1111111
+grade = 3.00 4.00 3.00 4.00
+2030/1/1
+
+seekg(size, ios_base::beg)
+before read tellg = 64
+after read tellg = 128
+Mary_Smith
+id = 67890
+phone = 7654321
+grade = 4.00 4.00 4.00 4.00
+2000/1/1
+
+seekg(-2 * size, ios_base::cur)
+before read tellg = 0
+after read tellg = 64
+John_Smith
+id = 12345
+phone = 1234567
+grade = 3.00 3.00 3.00 3.00
+2000/1/1
+
+seekg(-3 * size, ios_base::end)
+before read tellg = 0
+after read tellg = 64
+John_Smith
+id = 12345
+phone = 1234567
+grade = 3.00 3.00 3.00 3.00
+2000/1/1
+
+seekp(size)
+before write tellp = 64
+after write tellp = 128
+seekp(2 * size)
+before write tellp = 128
+after write tellp = 192
+seekp(0)
+before write tellp = 0
+after write tellp = 64
+
+before read tellp = 0
+after read tellp = 192
+The data in c
+Mary_Smith
+id = 67890
+phone = 7654321
+grade = 4.00 4.00 4.00 4.00
+2000/1/1
+
+Baby_Smith
+id = 34567
+phone = 1111111
+grade = 3.00 4.00 3.00 4.00
+2030/1/1
+
+John_Smith
+id = 12345
+phone = 1234567
+grade = 3.00 3.00 3.00 3.00
+2000/1/1
+

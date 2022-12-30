@@ -1,0 +1,38 @@
+sizeof(a[0][0][0]) is 4
+sizeof(a[0][0]) is 16
+sizeof(a[0]) is 48
+sizeof(a) is 96
+a[0][0][0 at 0x7ffe56b510d0
+a[0][0][1 at 0x7ffe56b510d4
+a[0][0][2 at 0x7ffe56b510d8
+a[0][0][3 at 0x7ffe56b510dc
+a[0][1][0 at 0x7ffe56b510e0
+a[0][1][1 at 0x7ffe56b510e4
+a[0][1][2 at 0x7ffe56b510e8
+a[0][1][3 at 0x7ffe56b510ec
+a[0][2][0 at 0x7ffe56b510f0
+a[0][2][1 at 0x7ffe56b510f4
+a[0][2][2 at 0x7ffe56b510f8
+a[0][2][3 at 0x7ffe56b510fc
+a[1][0][0 at 0x7ffe56b51100
+a[1][0][1 at 0x7ffe56b51104
+a[1][0][2 at 0x7ffe56b51108
+a[1][0][3 at 0x7ffe56b5110c
+a[1][1][0 at 0x7ffe56b51110
+a[1][1][1 at 0x7ffe56b51114
+a[1][1][2 at 0x7ffe56b51118
+a[1][1][3 at 0x7ffe56b5111c
+a[1][2][0 at 0x7ffe56b51120
+a[1][2][1 at 0x7ffe56b51124
+a[1][2][2 at 0x7ffe56b51128
+a[1][2][3 at 0x7ffe56b5112c
+address of a[0][0] is 0x7ffe56b510d0
+address of a[1][0] is 0x7ffe56b51100
+value of a[0][0] is 0x7ffe56b510d0
+value of a[1][0] is 0x7ffe56b51100
+address of a[0] is 0x7ffe56b510d0
+address of a[1] is 0x7ffe56b51100
+value of a[0] is 0x7ffe56b510d0
+value of a[1] is 0x7ffe56b51100
+address of a is 0x7ffe56b510d0
+value of a is 0x7ffe56b510d0

@@ -1,0 +1,46 @@
+binary search tree s
+4 2 6 5 9 
+2 4 5 6 9 
+2 5 9 6 4 
+
+binary search tree t
+3 2 9 7 5 
+2 3 5 7 9 
+2 5 7 9 3 
+
+union u
+7 4 15 12 5 9 
+4 7 5 12 15 9 
+4 5 12 9 15 7 
+
+intersection v
+12 4 54 35 
+4 12 35 54 
+4 35 54 12 
+
+~BinaryTree
+~TreeNode 12
+~TreeNode 54
+~TreeNode 35
+~TreeNode 4
+~BinaryTree
+~TreeNode 7
+~TreeNode 15
+~TreeNode 9
+~TreeNode 12
+~TreeNode 5
+~TreeNode 4
+~BinarySearchTree
+~BinaryTree
+~TreeNode 3
+~TreeNode 9
+~TreeNode 7
+~TreeNode 5
+~TreeNode 2
+~BinarySearchTree
+~BinaryTree
+~TreeNode 4
+~TreeNode 6
+~TreeNode 9
+~TreeNode 5
+~TreeNode 2

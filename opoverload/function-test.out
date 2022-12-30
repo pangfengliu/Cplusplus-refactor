@@ -1,0 +1,20 @@
+sin((x)+(2))
+(cos((x)+(2)))*(1)
+exp(sin(((((x)*(x))*(x))+(0.5))/((x)-(3))))
+g(1.0) = 0.14112
++ deleted.
+sin deleted
++ deleted.
+cos deleted
+* deleted.
+* deleted.
+* deleted.
++ deleted.
+- deleted.
+/ deleted.
+sin deleted
+exp deleted
+Constant 3 deleted.
+Constant 0.5 deleted.
+Constant 2 deleted.
+Variable deleted.

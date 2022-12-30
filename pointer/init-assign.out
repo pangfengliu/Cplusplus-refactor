@@ -1,0 +1,9 @@
+i = 5
+&i = 0x7ffefac482a8
+iptr1 = 0x7ffefac482a8
+&iptr1 = 0x7ffefac482b0
+iptr2 = 0x7ffefac482a8
+&iptr2 = 0x7ffefac482b8
+i = 8
+&k = 0x7ffefac482c0
+k = 11

@@ -1,0 +1,12 @@
+open int for writing
+close int
+open int for reading
+00 00 00 00 01 00 00 00 
+02 00 00 00 03 00 00 00 
+04 00 00 00 05 00 00 00 
+06 00 00 00 07 00 00 00 
+08 00 00 00 09 00 00 00 
+0c 00 00 00 0c 00 00 00 
+
+48 bytes in int
+close int

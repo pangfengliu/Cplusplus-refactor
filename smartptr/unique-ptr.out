@@ -1,0 +1,6 @@
+main:
+*aptr = 3
+compound statement:
+*bptr = 5
+before return:
+*aptr = 5

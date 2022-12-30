@@ -1,0 +1,31 @@
+a: 
+7 9 2 6 4 
+delete node with 1
+delete node with 1
+delete node with 1
+a: 
+7 9 2 6 4 
+b: 
+7 9 2 6 4 
+b: 
+7 9 2 6 4 
+c: 
+7 9 2 6 4 
+a: 
+7 9 2 6 4 
+b: 
+2 6 4 
+c: 
+9 2 6 4 
+delete node with 9
+delete node with 2
+delete node with 6
+delete node with 4
+delete node with 2
+delete node with 6
+delete node with 4
+delete node with 7
+delete node with 9
+delete node with 2
+delete node with 6
+delete node with 4

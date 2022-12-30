@@ -1,0 +1,12 @@
+N = 2 F = 2 ONE = 1 TWO = 2 R = 0 S = 0 ZERO = 0 HUNDRED = 100 END
+IF N > HUNDRED GOTO 12
+F = TWO + ZERO 
+R = N % F 
+IF R == ZERO GOTO 10 
+F = F + ONE 
+S = F * F 
+IF S <= N GOTO 4 
+PRINT N 
+N = N + ONE 
+GOTO 2
+STOP

@@ -1,0 +1,3 @@
+foo: i = 1
+within if i = 20
+within main: i = 10

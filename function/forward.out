@@ -1,0 +1,10 @@
+leap-year-order.c:7:18: warning: implicit declaration of
+function ‘leapYear’; did you mean ‘clearerr’?
+[-Wimplicit-function-declaration]
+   printf("%d\n", leapYear(year));
+                  ^~~~~~~~
+                  clearerr
+/tmp/ccZ4S3Gc.o: In function `main':
+leap-year-order.c:(.text+0x3a): undefined reference to
+`leapYear'
+collect2: error: ld returned 1 exit status

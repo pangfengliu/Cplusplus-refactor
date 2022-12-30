@@ -1,0 +1,18 @@
+inorder
+data = 2
+data = 4
+data = 5
+data = 6
+data = 9
+preorder
+data = 4
+data = 2
+data = 6
+data = 5
+data = 9
+postorder
+data = 2
+data = 5
+data = 9
+data = 6
+data = 4

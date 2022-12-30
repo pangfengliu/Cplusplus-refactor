@@ -1,0 +1,1 @@
+streampos tellp();

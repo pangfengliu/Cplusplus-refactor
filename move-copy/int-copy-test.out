@@ -1,0 +1,16 @@
+default constructor:
+i:ptr == nullptr
+convert constructor:
+j:20
+deep copy assignment:20
+i:20
+j:20
+deep copy constructor:20
+i:20
+k:20
+i:22
+j:20
+k:21
+~Integer:21
+~Integer:20
+~Integer:22

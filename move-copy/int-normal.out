@@ -1,0 +1,6 @@
+default constructor:
+i:ptr == nullptr
+convert constructor:
+j:20
+~Integer:20
+~Integer:nothing

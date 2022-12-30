@@ -1,0 +1,13 @@
+alignof(int8_t) = 1
+alignof(int16_t) = 2
+alignof(int32_t) = 4
+alignof(Ints1) = 4
+alignof(Ints2) = 4
+Offset within Ints1
+offsetof int8 = 0
+offsetof int16 = 2
+offsetof int32 = 4
+Offset within Ints2
+offsetof int8 = 0
+offsetof int32 = 4
+offsetof int16 = 8

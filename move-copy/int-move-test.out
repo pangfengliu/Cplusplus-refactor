@@ -1,0 +1,13 @@
+default constructor:
+i:ptr == nullptr
+convert constructor:
+j:20
+move assignment:20
+i:20
+j:ptr == nullptr
+move constructor:20
+i:ptr == nullptr
+k:20
+~Integer:20
+~Integer:nothing
+~Integer:nothing

@@ -1,0 +1,1 @@
+copy-file-fail: copy-file-fail.cc:22: int main(): Assertion `!(ifile.fail())' failed.

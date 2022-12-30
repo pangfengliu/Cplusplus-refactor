@@ -1,0 +1,20 @@
+sizeof(intPtr) = 8
+sizeof(arrayPtr) = 8
+sizeof(matrixPtr) = 8
+intPtr + 1 = 0x7ffc7f717a54
+a[0][0] + 1 = 0x7ffc7f717a54
+&(a[0][0][0]) + 1 = 0x7ffc7f717a54
+&(a[0][0][1]) = 0x7ffc7f717a54
+arrayPtr + 1 = 0x7ffc7f717a60
+a[0] + 1 = 0x7ffc7f717a60
+a[0][1] 0x7ffc7f717a60
+a[0][0] + 4 = 0x7ffc7f717a60
+&(a[0][0][0]) + 4 = 0x7ffc7f717a60
+&(a[0][1][0]) = 0x7ffc7f717a60
+matrixPtr + 1 = 0x7ffc7f717a80
+a + 1 = 0x7ffc7f717a80
+a[1] = 0x7ffc7f717a80
+a[0] + 3 = 0x7ffc7f717a80
+a[0][0] + 12 = 0x7ffc7f717a80
+&(a[0][0][0]) + 12 = 0x7ffc7f717a80
+&(a[1][0][0]) = 0x7ffc7f717a80

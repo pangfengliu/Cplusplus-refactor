@@ -1,0 +1,5 @@
+sizeof(short int) = 2
+sizeof(int) = 4
+sizeof(long) = 8
+sizeof(long int) = 8
+sizeof(long long int) = 8

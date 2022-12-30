@@ -1,0 +1,4 @@
+C:\SVN\book\C>gcc pi-assign.c
+pi-assign.c: In function `main':
+pi-assign.c:7: error: assignment of read-only 
+variable `pi'

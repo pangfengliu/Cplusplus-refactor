@@ -1,0 +1,1 @@
+void rewind(FILE *fp);

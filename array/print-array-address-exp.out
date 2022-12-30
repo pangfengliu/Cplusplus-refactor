@@ -1,0 +1,5 @@
+&a is 0x7ffff93d7ba0
+a is 0x7ffff93d7ba0
+&(a[0]) is 0x7ffff93d7ba0
+a + 3 is 0x7ffff93d7bac
+&(a[3]) is 0x7ffff93d7bac

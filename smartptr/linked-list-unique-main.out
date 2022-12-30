@@ -1,0 +1,8 @@
+7 9 2 6 4 
+~ListNode 7
+delete 7
+9 2 6 4 
+~ListNode 9
+~ListNode 2
+~ListNode 6
+~ListNode 4

@@ -1,0 +1,14 @@
+binary search tree
+4 2 6 5 9 
+2 4 5 6 9 
+2 5 9 6 4 
+
+reverse order 9 6 5 4 2 
+
+~BinarySearchTree
+~BinaryTree
+~TreeNode 4
+~TreeNode 6
+~TreeNode 9
+~TreeNode 5
+~TreeNode 2

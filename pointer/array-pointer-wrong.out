@@ -1,0 +1,3 @@
+sizeof(intPtr) = 8
+sizeof(arrayPtr) = 32
+sizeof(matrixPtr) = 96

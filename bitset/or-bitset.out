@@ -1,0 +1,6 @@
+permit1 = 00010010
+permit2 = 00110000
+permit1 | permit2 = 00110010
+at least one has permit in semester 1
+at least one has permit in semester 4
+at least one has permit in semester 5

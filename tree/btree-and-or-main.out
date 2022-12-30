@@ -1,0 +1,56 @@
+s
+7 1 8 2 4 5 6 3 
+1 2 8 7 5 6 4 3 
+2 8 1 6 5 3 4 7 
+
+t
+4 2 7 5 3 6 1 8 
+7 2 3 6 5 4 1 8 
+7 6 3 5 2 8 1 4 
+
+union u
+11 3 7 13 5 6 5 5 6 11 
+7 3 5 6 13 11 5 6 5 11 
+7 6 5 13 3 6 5 11 5 11 
+
+intersection v
+28 2 40 6 4 24 
+2 6 40 28 4 24 
+6 40 2 24 4 28 
+
+delete 6
+delete 40
+delete 2
+delete 24
+delete 4
+delete 28
+
+delete 7
+delete 6
+delete 5
+delete 13
+delete 3
+delete 6
+delete 5
+delete 11
+delete 5
+delete 11
+
+delete 7
+delete 6
+delete 3
+delete 5
+delete 2
+delete 8
+delete 1
+delete 4
+
+delete 2
+delete 8
+delete 1
+delete 6
+delete 5
+delete 3
+delete 4
+delete 7
+

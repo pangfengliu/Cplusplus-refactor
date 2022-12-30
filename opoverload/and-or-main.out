@@ -1,0 +1,77 @@
+s
+7 1 8 2 4 5 6 3 
+1 2 8 7 5 6 4 3 
+2 8 1 6 5 3 4 7 
+
+t
+4 2 7 5 3 6 1 8 
+7 2 3 6 5 4 1 8 
+7 6 3 5 2 8 1 4 
+
+union u
+11 3 7 13 5 6 5 5 6 11 
+7 3 5 6 13 11 5 6 5 11 
+7 6 5 13 3 6 5 11 5 11 
+
+intersection v
+28 2 40 6 4 24 
+2 6 40 28 4 24 
+6 40 2 24 4 28 
+
+~BinaryTree
+~TreeNode 308
+~TreeNode 20
+~TreeNode 264
+~TreeNode 6
+~TreeNode 520
+~TreeNode 30
+w
+315 7 528 32 24 5 6 267 
+7 32 528 315 5 6 24 267 
+32 528 7 6 5 267 24 315 
+
+~BinaryTree
+~TreeNode 315
+~TreeNode 24
+~TreeNode 267
+~TreeNode 5
+~TreeNode 6
+~TreeNode 7
+~TreeNode 528
+~TreeNode 32
+~BinaryTree
+~TreeNode 28
+~TreeNode 4
+~TreeNode 24
+~TreeNode 2
+~TreeNode 40
+~TreeNode 6
+~BinaryTree
+~TreeNode 11
+~TreeNode 5
+~TreeNode 11
+~TreeNode 5
+~TreeNode 6
+~TreeNode 3
+~TreeNode 13
+~TreeNode 5
+~TreeNode 6
+~TreeNode 7
+~BinaryTree
+~TreeNode 4
+~TreeNode 1
+~TreeNode 8
+~TreeNode 2
+~TreeNode 5
+~TreeNode 3
+~TreeNode 6
+~TreeNode 7
+~BinaryTree
+~TreeNode 7
+~TreeNode 4
+~TreeNode 3
+~TreeNode 5
+~TreeNode 6
+~TreeNode 1
+~TreeNode 8
+~TreeNode 2

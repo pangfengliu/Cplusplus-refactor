@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+#include "maze.h"
+
+int main()
+{
+  int row, col;
+  cin >> row >> col;
+  vector<vector<int>> status{readCell(row, col)};
+  int startRow, startCol, endRow, endCol;
+  cin >> startRow >> startCol >> endRow >> endCol;
+  Position current {startRow, startCol};
+  Position end {endRow, endCol};
+  Maze maze(status, current, end);
+  maze.go(2);
+  return 0;
+}

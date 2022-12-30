@@ -1,0 +1,5 @@
+main: count = 1
+*aptr = 3
+compound statement: count = 2 2
+*bptr = 5
+before return count = 1

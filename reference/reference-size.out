@@ -1,0 +1,3 @@
+sizeof(iref) = 4
+sizeof(fref) = 4
+sizeof(dref) = 8

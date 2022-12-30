@@ -1,0 +1,17 @@
+2 7 
+0 1 9 12 10 
+1 2 
+8 1 10 
+2 0 1 8 1 2 1 7 9 10 12 10 
+delete node with 2
+delete node with 0
+delete node with 1
+delete node with 8
+delete node with 1
+delete node with 2
+delete node with 1
+delete node with 7
+delete node with 9
+delete node with 10
+delete node with 12
+delete node with 10

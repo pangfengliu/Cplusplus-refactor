@@ -1,0 +1,7 @@
+head2tail: 7 9 2 6 4 
+tail2head: 4 6 2 9 7 
+delete node with 7
+delete node with 9
+delete node with 2
+delete node with 6
+delete node with 4

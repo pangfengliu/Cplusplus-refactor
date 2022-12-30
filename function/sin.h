@@ -1,0 +1,1 @@
+double sin(double x);

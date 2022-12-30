@@ -1,0 +1,19 @@
+The address of i is 0x7ffd39bbb7a0
+The value of i is 10
+The address of j is 0x7ffd39bbb7a8
+The value of j is 20
+The address of iptr is 0x7ffd39bbb7b0
+The value of iptr is 0x7ffd39bbb7a0
+The address of p1 is 0x7ffd39bbb788
+The value of p1 is 0x7ffd39bbb7a0
+The address of p2 is 0x7ffd39bbb780
+The value of p2 is 0x7ffd39bbb7a8
+The value of p1 is now 0x7ffd39bbb7a8
+after pointerInc 
+The value of i is 11
+The value of j is 22
+after *iptr += 5
+The address of iptr is 0x7ffd39bbb7b0
+The value of iptr is 0x7ffd39bbb7a0
+The value of i is 16
+The value of j is 22

@@ -1,0 +1,7 @@
+gcc const-ptr.c -o const-ptr.exe
+const-ptr.c: In function `main':
+const-ptr.c:13: error: assignment of read-only location
+const-ptr.c:14: error: assignment of read-only variable `const_ptr_to_int'
+const-ptr.c:16: error: assignment of read-only variable `const_ptr_to_const_int'
+const-ptr.c:17: error: assignment of read-only location
+make: *** [const-ptr.exe] Error 1

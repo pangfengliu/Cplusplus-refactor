@@ -1,0 +1,30 @@
+hanoi(4,A,C,B)
+hanoi(3,A,B,C)
+hanoi(2,A,C,B)
+hanoi(1,A,B,C)
+from A to B
+from A to C
+hanoi(1,B,C,A)
+from B to C
+from A to B
+hanoi(2,C,B,A)
+hanoi(1,C,A,B)
+from C to A
+from C to B
+hanoi(1,A,B,C)
+from A to B
+from A to C
+hanoi(3,B,C,A)
+hanoi(2,B,A,C)
+hanoi(1,B,C,A)
+from B to C
+from B to A
+hanoi(1,C,A,B)
+from C to A
+from B to C
+hanoi(2,A,C,B)
+hanoi(1,A,B,C)
+from A to B
+from A to C
+hanoi(1,B,C,A)
+from B to C

@@ -1,0 +1,4 @@
+bit 7 on
+after setting bit 7 permit = 10000101
+bit 7 off
+after resetting bit 7 permit = 00000101

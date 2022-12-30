@@ -1,0 +1,8 @@
+list before deleteHead
+7 9 2 6 4 
+list after deleteHead
+9 2 6 4 
+delete node with 9
+delete node with 2
+delete node with 6
+delete node with 4

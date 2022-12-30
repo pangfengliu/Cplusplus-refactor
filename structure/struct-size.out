@@ -1,0 +1,6 @@
+sizeof(int8_t) = 1
+sizeof(int16_t) = 2
+sizeof(int32_t) = 4
+total = 7
+sizeof(ints1) = 8
+sizeof(ints2) = 12

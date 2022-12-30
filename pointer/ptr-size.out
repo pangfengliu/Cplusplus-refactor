@@ -1,0 +1,3 @@
+sizeof(iptr)=8
+sizeof(fptr)=8
+sizeof(dptr)=8

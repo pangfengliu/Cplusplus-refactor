@@ -1,0 +1,5 @@
+permit1 = 00010010
+permit2 = 00110000
+permit1 ^ permit2 = 00100010
+exactly one has permit in semester 1
+exactly one has permit in semester 5

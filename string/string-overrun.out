@@ -1,0 +1,11 @@
+The address of source is 0028FEE8.
+The size of source is 40
+The address of i is 0028FEE4
+The size of i is 4
+The address of destination is 0028FEE0
+The size of destination is 4
+strlen(source) is 17
+i is 5
+i is 544434464
+source is now <a string.>
+destination is now <This is a string.>

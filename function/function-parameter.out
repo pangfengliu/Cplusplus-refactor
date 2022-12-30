@@ -1,0 +1,10 @@
+the address of i = %p
+0x7ffee3de4eb4
+before calling test i = 5
+the address of j = 0x7ffee3de4e9c
+before adding 1 j = 5
+after adding 1 j = 6
+after calling test i = 5
+the address of j = 0x7ffee3de4e9c
+before adding 1 j = 10
+after adding 1 j = 11

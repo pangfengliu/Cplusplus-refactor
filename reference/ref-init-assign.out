@@ -1,0 +1,9 @@
+i = 5
+&i = 0x7fffecf47ce0
+&j = 0x7fffecf47ce4
+ref1 = 5
+&ref1 = 0x7fffecf47ce0
+ref2 = 5
+&ref2 = 0x7fffecf47ce0
+i = 8
+j = 11

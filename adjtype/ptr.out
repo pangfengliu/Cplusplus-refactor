@@ -1,0 +1,9 @@
+const-ptr.c: In function 'main':
+const-ptr.c:13:3: error: assignment of read-only location 
+'*ptrToConstInt'
+const-ptr.c:14:3: error: assignment of read-only variable 
+'constPtrToInt'
+const-ptr.c:16:3: error: assignment of read-only variable 
+'constPtrToConstInt'
+const-ptr.c:17:3: error: assignment of read-only location 
+'*constPtrToConstInt'

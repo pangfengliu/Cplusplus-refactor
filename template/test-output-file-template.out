@@ -1,0 +1,46 @@
+open int_8 for writing
+close int_8
+open int_8 for reading
+00 01 02 03 04 05 06 07 
+08 09 0c 0c 
+12 bytes in int_8
+close int_8
+open int_16 for writing
+close int_16
+open int_16 for reading
+00 00 01 00 02 00 03 00 
+04 00 05 00 06 00 07 00 
+08 00 09 00 0c 00 0c 00 
+
+24 bytes in int_16
+close int_16
+open int_32 for writing
+close int_32
+open int_32 for reading
+00 00 00 00 01 00 00 00 
+02 00 00 00 03 00 00 00 
+04 00 00 00 05 00 00 00 
+06 00 00 00 07 00 00 00 
+08 00 00 00 09 00 00 00 
+0c 00 00 00 0c 00 00 00 
+
+48 bytes in int_32
+close int_32
+open int_64 for writing
+close int_64
+open int_64 for reading
+00 00 00 00 00 00 00 00 
+01 00 00 00 00 00 00 00 
+02 00 00 00 00 00 00 00 
+03 00 00 00 00 00 00 00 
+04 00 00 00 00 00 00 00 
+05 00 00 00 00 00 00 00 
+06 00 00 00 00 00 00 00 
+07 00 00 00 00 00 00 00 
+08 00 00 00 00 00 00 00 
+09 00 00 00 00 00 00 00 
+0c 00 00 00 00 00 00 00 
+0c 00 00 00 00 00 00 00 
+
+96 bytes in int_64
+close int_64

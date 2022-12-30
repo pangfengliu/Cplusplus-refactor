@@ -1,0 +1,39 @@
+0 100
+allocating 50 10
+memory:
+0 50
+60 40
+allocating 70 10
+memory:
+0 50
+60 10
+80 20
+allocating 0 10
+memory:
+10 40
+60 10
+80 20
+allocating 30 10
+memory:
+10 20
+40 10
+60 10
+80 20
+freeing 30 10
+memory:
+10 40
+60 10
+80 20
+freeing 0 10
+memory:
+0 50
+60 10
+80 20
+freeing 70 10
+memory:
+0 50
+60 40
+freeing 50 10
+memory:
+0 100
+delete 0 100

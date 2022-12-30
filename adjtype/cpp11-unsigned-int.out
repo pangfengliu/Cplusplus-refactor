@@ -1,0 +1,8 @@
+sizeof(uint8_t) = 1
+sizeof(uint16_t) = 2
+sizeof(uint32_t) = 4
+sizeof(uint64_t) = 8
+UINT8_MIN = 255
+UINT16_MIN = 65535
+UINT32_MIN = 4294967295
+UINT64_MIN = 18446744073709551615

@@ -1,0 +1,24 @@
+The address of i is 0x7ffd6234b498
+The value of i is 10
+The address of j is 0x7ffd6234b4a0
+The value of j is 20
+The address of iptr is 0x7ffd6234b4a8
+The value of iptr is 0x7ffd6234b498
+The address of jptr is 0x7ffd6234b4b0
+The value of jptr is 0x7ffd6234b4a0
+pointerInc starts
+The address of p1 is 0x7ffd6234b4a8
+The value of p1 is 0x7ffd6234b498
+The address of p2 is 0x7ffd6234b4b0
+The value of p2 is 0x7ffd6234b4a0
+The value of p1 is 0x7ffd6234b4a0
+The value of p2 is 0x7ffd6234b4a0
+pointerInc ends
+after pointerInc 
+The value of i is 11
+The value of j is 22
+after *iptr += 5
+The value of iptr is 0x7ffd6234b4a0
+The value of jptr is 0x7ffd6234b4a0
+The value of i is 11
+The value of j is 27

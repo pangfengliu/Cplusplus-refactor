@@ -1,0 +1,12 @@
+main: a = 0x7ffee5d8e1b4
+main: b = 0x7ffee5d8e1c0
+array is at 0x7ffee5d8e1b4
+array[0] = 3
+array[1] = 7
+array[2] = 5
+array is at 0x7ffee5d8e1c0
+array[0] = 2
+array[1] = 6
+array[2] = 8
+array[3] = 3
+array[4] = 9

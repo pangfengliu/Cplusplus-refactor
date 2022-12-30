@@ -1,0 +1,35 @@
+c = a
+isalnum
+isalpha
+islower
+isxdigit
+isprint
+isgraph
+c = Z
+isalnum
+isalpha
+isupper
+isprint
+isgraph
+c = 3
+isalnum
+isdigit
+isxdigit
+isprint
+isgraph
+c = .
+isprint
+isgraph
+ispunct
+c = =
+isprint
+isgraph
+ispunct
+c = \
+isprint
+isgraph
+ispunct
+c = *
+isprint
+isgraph
+ispunct
