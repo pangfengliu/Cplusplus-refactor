@@ -6,7 +6,7 @@ using namespace std;
 
 bool comp(const Rational &a, const Rational &b)
 {
-  return(!(a < b));
+  return(a > b);
 }
 int main()
 {

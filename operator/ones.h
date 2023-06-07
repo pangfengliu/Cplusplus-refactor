@@ -11,6 +11,8 @@ class Number
   int getones() const;
   bitset<4> getbits() const;
   bool operator<(const Number &r) const;
+  bool operator==(const Number &r) const;
+  bool operator>(const Number &r) const;
   void print() const;
 };
 
