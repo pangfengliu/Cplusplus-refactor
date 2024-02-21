@@ -14,3 +14,9 @@
 
 ## Input and Output
 - You can use `cin` and `cout` on any built-in data tyoe without a format stirng.  They will work correctly according to the data type of the variables.  We will describe more on this *polymorphism*.
+- We can read/write multiple data by *chaining* them with `cin` and `cout`.  We will describe more on this chaining in *operator fucntions*.
+- We can use `while (cin >> data)` to check for end of the data.
+- We can control the input/output format by including `iomanip` and then send its *mainuplator* to `cin` and `cout`.  
+  - We can set the width of the output by sedning `setw` to `cout`.
+  - We can set the data format by sending the corresponding data, e.g., `dec` means decimal, and `left` means left-justified. 
+  - Pleaee google all the detials by yourself.
