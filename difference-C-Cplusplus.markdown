@@ -20,3 +20,7 @@
   - We can set the width of the output by sedning `setw` to `cout`.
   - We can set the data format by sending the corresponding data, e.g., `dec` means decimal, and `left` means left-justified. 
   - Pleaee google all the detials by yourself.
+
+## Arrays
+- You can use *range for* to simplify a for loop.  For example, `for (int i : a)` will iterate over all indices in array `a`. The syntax is similar to Python. The range for greatly simpplifies array processing. 
+- 
