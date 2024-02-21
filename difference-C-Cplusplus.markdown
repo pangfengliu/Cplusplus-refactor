@@ -24,3 +24,11 @@
 ## Arrays
 - You can use *range for* to simplify a for loop.  For example, `for (int i : a)` will iterate over all indices in array `a`. The syntax is similar to Python. The range for greatly simpplifies array processing. 
 - You can still use standard *raw arrays* as in C. We will describe a more object-oriended approach with C++ `vector`.
+
+## Floating Point Numbers
+- You can use float and double as in C, and `cin` and `cout` will automatically determine the correct format according to the data type.
+- `static_cast<type>(expression)` casts the expression into the specified type *statically*, which means the cast is at compile time.
+- `setprecision` is a very useful input/output manipulator for floating point numbers.
+
+## Functions
+- Unlike C, two C++ function can have the same function names as long as they ey have dfferent prototype, which consists of the fucntion name and parameter data types. As a result two function can have the same name as long as they have differernt parameter data types. We will describe more on this *fucntion overloading*.
