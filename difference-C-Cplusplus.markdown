@@ -32,3 +32,4 @@
 
 ## Functions
 - Unlike C, two C++ function can have the same function names as long as they ey have dfferent prototype, which consists of the fucntion name and parameter data types. As a result two function can have the same name as long as they have differernt parameter data types. We will describe more on this *fucntion overloading*.
+- To include a C++ header does not need to specify the `.h` suffix.
