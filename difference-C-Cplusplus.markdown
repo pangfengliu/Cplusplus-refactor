@@ -23,4 +23,4 @@
 
 ## Arrays
 - You can use *range for* to simplify a for loop.  For example, `for (int i : a)` will iterate over all indices in array `a`. The syntax is similar to Python. The range for greatly simpplifies array processing. 
-- 
+- You can still use standard *raw arrays* as in C. We will describe a more object-oriended approach with C++ `vector`.
