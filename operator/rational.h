@@ -13,6 +13,8 @@ class Rational {
   Rational operator*(const Rational &r) const;
   Rational operator/(const Rational &r) const;
   bool operator<(const Rational &r) const;
+  bool operator==(const Rational &r) const;
+  bool operator>(const Rational &r) const;
   void print(string msg = "", ostream &out = cout) const;
 };
 #endif

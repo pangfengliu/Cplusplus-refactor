@@ -19,7 +19,7 @@ int main()
   bool ascending {false};
   sort(numbers.begin(), numbers.end(),
        [=](const Number &a, const Number &b)
-       {return((ascending)? (a < b) :!(a < b));});
+       {return((ascending)? (a < b) :(a > b));});
   cout << "with capturing ascending" << endl;
   for (auto number : numbers)
     number.print();
