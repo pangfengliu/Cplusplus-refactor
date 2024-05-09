@@ -1,0 +1,11 @@
+&h: 0x6000037bc040
+In function
+&b: 0x16f4bb21c
+&hour: 0x16f4bb1ec
+&c: 0x16f4bb020
+Construct
+&a: 0x16f4bb274
+&e: 0x6000004b8080
+Invalid time format: Expect <hour> in range [0, 24), found: 200
+The exception is out of scope!
+Scope out of the catch!
