@@ -9,6 +9,7 @@ void SortedListRemove::remove(int key)
 ListNode *SortedListRemove::
 removeKeyFromList(int key, ListNode *list)
 {
+  if (!list) return list
   if (list->getKey() == key) {
     ListNode *next = list->getNext();
     delete list;
