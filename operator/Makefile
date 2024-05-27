@@ -30,5 +30,7 @@ rational-expl-func-para: rational-expl-func-para.o rational-explicit.o
 rational-expl-op: rational-expl-op.o rational-explicit.o
 rational-expl-func-ret: rational-expl-func-ret.o rational-explicit.o
 
+time-throw-construct: time-throw-construct.o
+
 include ../programmingbook.mk
 
