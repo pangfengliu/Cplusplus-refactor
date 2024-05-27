@@ -36,6 +36,14 @@ bool Rational::operator<(const Rational &a) const
 {
   return(q * a.p < p * a.q);
 }
+bool Rational::operator==(const Rational &a) const
+{
+  return(p == a.p && q == a.q);
+}
+bool Rational::operator>(const Rational &a) const
+{
+  return(!(*this < a) && !(*this == a));
+}
 int gcd(int a, int b)
 {
   if (a % b == 0)

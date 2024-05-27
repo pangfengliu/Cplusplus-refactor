@@ -22,7 +22,7 @@ int main()
   bool ascending {false};
   sort(rationals.begin(), rationals.end(),
        [=](const Rational &a, const Rational &b)
-       {return((ascending)? (a < b) :!(a < b));});
+       {return((ascending)? (a < b) :(a > b));});
   cout << "with capturing ascending" << endl;
   for (auto rational : rationals) {
     rational.print();
